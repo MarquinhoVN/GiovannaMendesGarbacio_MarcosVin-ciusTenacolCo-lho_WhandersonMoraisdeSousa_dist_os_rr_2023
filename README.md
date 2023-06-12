@@ -1,5 +1,5 @@
 # Distritos Linux - Slackware
-Análise doSlackware
+Análise do Slackware
 
 Site Oficial:
 http://www.slackware.com
